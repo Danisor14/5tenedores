@@ -10,3 +10,4 @@ export default function Drawner() {
 }
 
 const styles = StyleSheet.create({});
+//lalalalalalaa
